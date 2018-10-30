@@ -27,7 +27,7 @@
     "babel-preset-stage-3": "6.24.1",
     "concurrently": "3.5.1",
     "onchange": "3.3.0",
-    "parcel-bundler": "^1.5.1",
+    "parcel-bundler": "1.10.0",
     "prettier": "1.10.2",
     "react": "16.2.0",
     "react-dom": "16.2.0"
